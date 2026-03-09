@@ -4,3 +4,4 @@ slam_log/
 thirdparty/libtorch/lib/*
 .vscode
 *.so
+*.a
