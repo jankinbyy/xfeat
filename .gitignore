@@ -1,0 +1,6 @@
+build/
+map/
+slam_log/
+thirdparty/libtorch/lib/*
+.vscode
+*.so
