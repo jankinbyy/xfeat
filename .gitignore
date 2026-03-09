@@ -2,6 +2,6 @@
 map/
 slam_log/
 thirdparty/libtorch/lib/*
-.vscode
+**/.vscode
 *.so
 *.a
